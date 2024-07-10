@@ -18,6 +18,7 @@ The automation tests cover the following scenarios:
 ## Technologies Used
 * Programming Language: Java
 * Web Automation: Selenium WebDriver
+* Test Framework: TestNG
 * Test Reporting: ExtentReport
 
 
