@@ -1,0 +1,19 @@
+[
+	{
+		"name":"Hema",
+		"expectedSignupLoginPageTitle":"Automation Exercise - Signup / Login",
+		"expectedSignupPageTitle":"Automation Exercise - Signup",
+		"password":"Password@123",
+		"month":2,
+		"year":"2005",
+		"fName":"Hemapriya",
+		"lName": "H",
+		"address1":"4th street",
+		"address2":"5th cross",
+		"state": "Tamil Nadu",
+		"city": "Chennai",
+		"zipcode":"545678",
+		"mobileNo":"6666666666",
+		"expectedAccountCreatedTitle":"Automation Exercise - Account Created"
+	}
+]
