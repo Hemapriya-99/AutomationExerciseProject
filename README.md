@@ -7,7 +7,7 @@ The automation tests cover the following scenarios:
 * Login
 * Product Search
 * Adding a product to cart from Product Listing page (PLP)
-* Adding product to cart from Product Description page (PDP)
+* Adding a product to cart from Product Description page (PDP)
 * Cart
 * Checkout and Placing an Order
 
